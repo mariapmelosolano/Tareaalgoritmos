@@ -1,2 +1,2 @@
-# Tareaalgoritmos
-Tarea Algoritmos, Julian Salazar 
+# TAREA ALGORITMOS
+Tarea algoritmos, Julian Salazar 
